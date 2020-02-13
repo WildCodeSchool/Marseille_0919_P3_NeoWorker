@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "root",
-    "password": "Amnesia13",
+   "password": "password",
+    "database": "database_development",
     "database": "neoworker",
     "host": "127.0.0.1",
     "dialect": "mysql",
